@@ -1,9 +1,47 @@
-# Fabric Example Mod
+# UHC-plus
 
-## Setup
+## 介绍
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+本mod是基于 Gp的[TC-UHC](https://github.com/Gamepiaynmo/TC-UHC)游戏机制 升级到新版本的not-vanilla小游戏 
 
-## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## TODO-LIST
+
+1.地图生成: 
+    -自定义结构生成和战利品生成 
+    -自定义矿石
+        -矿石生成量调整
+        -矿石仅生成在洞穴表面
+    -自定义世界生成
+        -删除水域: 海洋
+    -世界生成缓存
+2.玩家和队伍: 
+    -基于MMR的玩家队伍分配
+    -玩家信息统计: 
+      -击杀数 
+      -存活时间 
+      -造成伤害 
+      -承受伤害 
+      -友军伤害 
+      -战利品收集数量 
+               
+3.游戏模式:
+    -自定义游戏设置和快速载入预设
+    -基础游戏模式:
+        -单人模式
+        -组队模式
+        -国王模式
+        -隐身模式
+        -BOSS模式
+4.游戏机制:
+    -边界变动机制
+        -边界平移
+        -边界随机移动和高度限制
+    -自定义合成:
+        -装备修复
+        -中立村民物资交易
+        -爆炸萤石箭
+                  
+     
+
+
